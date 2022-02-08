@@ -138,7 +138,6 @@ fsspec==0.8.3
 funcy==1.17
 future==0.16.0
 gast==0.4.0
-GDAL==2.2.2
 gdown==4.2.1
 gensim==3.6.0
 geographiclib==1.52
