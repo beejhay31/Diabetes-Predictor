@@ -9,7 +9,7 @@ warnings.filterwarnings('ignore')
 app = Flask(__name__)
 run_with_ngrok(app)
 
-model = load_model('diabetes_model')
+model = load_model('diabetes_model.pkl')
 
 @app.route('/', methods=['GET'])
 def home():
