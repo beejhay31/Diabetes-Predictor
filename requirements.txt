@@ -392,7 +392,6 @@ requests==2.27.1
 requests-oauthlib==1.3.1
 resampy==0.2.2
 retrying==1.3.3
-rpy2==3.4.5
 rsa==4.8
 s3transfer==0.5.1
 SALib==1.4.5
